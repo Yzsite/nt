@@ -4,7 +4,6 @@
   "description": "PWAのテストアプリです。",
   "icons": [],
   "start_url": "/",
-  "scope": "https://discord.com/app"
   "display": "Fullscreen",
   "theme_color": "#0000FF",
   "background_color": "#0000FF"
