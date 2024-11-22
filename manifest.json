@@ -4,7 +4,7 @@
   "description": "PWAのテストアプリです。",
   "icons": [],
   "start_url": "/index.html",
-  "display": "standalone",
+  "display": "Fullscreen",
   "theme_color": "#0000FF",
   "background_color": "#0000FF"
 }
