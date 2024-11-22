@@ -8,6 +8,7 @@
       "type": "image/jpeg"
     }],
   "start_url": "https://yzsite.github.io/Dc",
+  "scope": "https://yzsite.github.io","https://discord.com",
   "display": "Fullscreen",
   "theme_color": "#0000FF",
   "background_color": "#0000FF"
