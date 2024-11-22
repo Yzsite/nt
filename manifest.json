@@ -1,9 +1,9 @@
 {
-  "name": "slither.io",
-  "short_name": "slither.io",
-  "description": "slither.io",
+  "name": "Bluesky",
+  "short_name": "Bluesky",
+  "description": "Bluesky",
   "icons": [{
-      "src": "https://img.utdstc.com/icon/3ae/376/3ae3765190946fe8b5dfd0b1d87466860e98a962ab516e54316a107fde255896:200",
+      "src": "https://img.utdstc.com/icon/9ed/d73/9edd73db2bf4fca6f9ef81e63c10455c29c655d1cfd35d76730bcd50f1300bb4:200",
       "sizes": "256x256",
       "type": "image/jpeg"
     }],
