@@ -3,7 +3,7 @@
   "short_name": "TestApp",
   "description": "PWAのテストアプリです。",
   "icons": [],
-  "start_url": "https://discord.com/app",
+  "start_url": "/",
   "scope": "https://discord.com/app"
   "display": "Fullscreen",
   "theme_color": "#0000FF",
