@@ -3,9 +3,9 @@
   "short_name": "Discord",
   "description": "Discord",
   "icons": [{
-      "src": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
+      "src": "https://img.utdstc.com/icon/5ed/010/5ed01047ff16ea45ec92a448cd98f0a807eeca466da7c176a1b2b5f2ca8deb66:200",
       "sizes": "256x256",
-      "type": "image/png"
+      "type": "image/jpeg"
     }],
   "start_url": "/",
   "display": "Fullscreen",
