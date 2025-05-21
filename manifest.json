@@ -1,9 +1,9 @@
 {
-  "name": "Bluesky",
-  "short_name": "Bluesky",
-  "description": "Bluesky",
+  "name": "note",
+  "short_name": "note",
+  "description": "note",
   "icons": [{
-      "src": "https://img.utdstc.com/icon/9ed/d73/9edd73db2bf4fca6f9ef81e63c10455c29c655d1cfd35d76730bcd50f1300bb4:200",
+      "src": "https://i.imgur.com/t3V17Bt.png",
       "sizes": "256x256",
       "type": "image/jpeg"
     }],
